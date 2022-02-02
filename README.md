@@ -1,2 +1,2 @@
-# Serlokas new
-https://al2bovek.github.io/Serlokas/
+# Serlokas New
+https://al2bovek.github.io/SerlokasNew/
