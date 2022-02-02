@@ -1,5 +1,5 @@
 {
-  "name": "33 grupe",
+  "name": "SerlokasNew",
   "version": "1.0.0",
   "description": "project",
   "main": "index.js",
@@ -7,10 +7,7 @@
     "dev": "dead-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "HTML",
-    "CSS"
-  ],
+  "keywords": ["HTML","CSS"],
   "author": "dubovek",
   "license": "",
   "devDependencies": {
